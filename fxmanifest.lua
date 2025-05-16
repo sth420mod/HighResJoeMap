@@ -1,7 +1,7 @@
 fx_version 'cerulean'
-name 'joemap'
-author 'joerogan#0001'
-description 'Circle Map with Atlas Stream'
+name 'HighResJoeMap'
+author 'STH Designs'
+description 'Circle Map with High Resolution Map'
 game 'gta5'
 
 ui_page 'html/ui.html'
